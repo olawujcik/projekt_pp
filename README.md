@@ -21,7 +21,7 @@ Gra Wisielec w języku Java. Użytkownik może wybrać poziom trudności (łatwy
 - Zainstalowany [Visual Studio Code](https://code.visualstudio.com/)
 - Zainstalowany pakiet rozszerzeń **Java Extension Pack** w Visual Studio Code, aby to zrobić:
 - W Visual Studio Code przejdź do zakładki rozszerzeń (ikona kwadratu z czterema małymi kwadratami w lewym pasku bocznym).
-- Wyszukaj Java Extension Pack i zainstaluj pakiet rozszerzeń. Java Extension Pack ( zawiera on: Language Support for Java(TM) by Red Hat, Debugger for Java, Java Test Runner, Maven for Java, Java Dependency Viewer)
+- Wyszukaj Java Extension Pack i zainstaluj pakiet rozszerzeń Java Extension Pack ( zawiera on: Language Support for Java(TM) by Red Hat, Debugger for Java, Java Test Runner, Maven for Java, Java Dependency Viewer)
 
 
 ### Kroki do uruchomienia gry w Visual Studio Code
@@ -37,7 +37,7 @@ Gra Wisielec w języku Java. Użytkownik może wybrać poziom trudności (łatwy
 3. **Uruchom grę**
     - W Visual Studio Code, otwórz plik `Wisielec.java`
     - przejdź do zakładki Uruchom i debuguj (ikona żuczka z trójkątem w lewym pasku bocznym) `Uruchom i debuguj`.
-    - po prawej stronie powinien się pojawić terminal (w przypadku, gdy program będzie wymagał dodatkowych rozszerzeń, pobierz zalecane)
+    - powinien się pojawić terminal, w którym widoczna jest gra (w przypadku, gdy program będzie wymagał dodatkowych rozszerzeń, pobierz zalecane)
 
 4. **Graj w grę**
     - Postępuj zgodnie z instrukcjami wyświetlanymi na ekranie, aby wybrać poziom trudności i zacząć grę.
